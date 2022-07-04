@@ -16,5 +16,6 @@ and then add this line to the file:
 
 */5 * * * * sh /your/path/of/the/bash/script.sh
 
+## Pictures:
 
-
+![alt text](https://www.messefrankfurt.com/content/dam/messefrankfurt-redaktion/locations/employees/Michael%20Biwer.jpg)
