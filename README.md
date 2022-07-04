@@ -18,6 +18,9 @@ and then add this line to the file:
 
 */5 * * * * sh /your/path/of/the/bash/script.sh
 
+So the script will run automatically every 5 minutes!
+Script works even after a reboot! :)
+
 -----------------------------------------------
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R0DMCZT)
