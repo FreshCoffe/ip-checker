@@ -18,6 +18,10 @@ and then add this line to the file:
 
 */5 * * * * sh /your/path/of/the/bash/script.sh
 
+-----------------------------------------------
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R0DMCZT)
+
 
 
 
