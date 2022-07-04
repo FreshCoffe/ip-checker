@@ -18,4 +18,4 @@ and then add this line to the file:
 
 ## Pictures:
 
-![alt text](https://www.messefrankfurt.com/content/dam/messefrankfurt-redaktion/locations/employees/Michael%20Biwer.jpg)
+![example](https://www.messefrankfurt.com/content/dam/messefrankfurt-redaktion/locations/employees/Michael%20Biwer.jpg)
