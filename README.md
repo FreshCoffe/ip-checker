@@ -7,7 +7,7 @@ Bash Script which notifies you via discord webhook if your public IP address has
 
 1. Donwload the files via git clone or just copy the code
 2. The ip.txt file has stored a random IP address which will be automatically updated with your public IP
-3. Change the discord Webhook
+3. Change the discord webhook and the path in the ip_checke.sh script
 4. Run the script every 5 minutes via Cronjob
 
 Type:
