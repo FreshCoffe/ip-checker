@@ -1,4 +1,4 @@
-# ip-checker
+# ip_checker
 Bash Script which notifies you via discord webhook if your public IP address has changed!
 
 - Linux only
